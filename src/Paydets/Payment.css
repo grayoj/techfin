@@ -49,6 +49,11 @@ section {
   padding: 15px;
   margin: 8px;
   background-color: #1e1f21;
+  cursor: pointer;
+}
+
+.payment-col div :hover {
+  background-color: #171717;
 }
 
 .payment-col div img {
